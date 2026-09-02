@@ -1,0 +1,207 @@
+{
+  "schema": 1,
+  "featurePrintRevision": 1,
+  "cropFraction": 0.82,
+  "background": "white-matte-cartulina",
+  "strategy": "5-NN-vote",
+  "rejectScore": "mean-of-3-nearest-distances-to-voted-class",
+  "threshold": 18.379,
+  "references": [
+    {
+      "file": "high_001.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_002.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_003.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_004.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_005.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_006.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_007.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_008.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_009.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_010.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_011.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_012.jpg",
+      "label": "high"
+    },
+    {
+      "file": "high_013.jpg",
+      "label": "high"
+    },
+    {
+      "file": "low_001.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_002.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_003.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_004.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_005.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_006.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_007.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_008.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_009.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_010.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_011.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_012.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_013.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_014.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_015.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_016.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_017.jpg",
+      "label": "low"
+    },
+    {
+      "file": "low_018.jpg",
+      "label": "low"
+    },
+    {
+      "file": "moderate_001.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_002.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_003.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_004.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_005.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_006.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_007.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_008.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_009.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_010.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_011.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_012.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_013.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_014.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_015.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_016.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_017.jpg",
+      "label": "moderate"
+    },
+    {
+      "file": "moderate_018.jpg",
+      "label": "moderate"
+    }
+  ]
+}
