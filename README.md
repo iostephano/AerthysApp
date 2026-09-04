@@ -616,8 +616,6 @@ El proceso incluyó:
 - eliminar código histórico y material de desarrollo;
 - convertir la aplicación en un ejemplo técnico reutilizable y publicable.
 
-Claude Code fue utilizado como acelerador durante partes de la implementación, auditoría, refactorización y documentación.
-
 Las decisiones sobre comportamiento, estrategia técnica, protocolo de pruebas, calibración y cambios realizados a partir de los resultados fueron dirigidas y revisadas durante el desarrollo.
 
 Esta experiencia reforzó una idea importante:
