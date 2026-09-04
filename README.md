@@ -673,3 +673,4 @@ Consulta [`LICENSE`](LICENSE).
 ## Autor
 
 **Stephano Portella — 2026**
+
